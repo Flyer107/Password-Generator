@@ -29,4 +29,4 @@ Changing word-number-special layout
 
 
 
-Credit: Python2.7 - https://www.youtube.com/watch?v=-C5g4J7iCj8
+Credit: Python2.7 - youtube.com/watch?v=-C5g4J7iCj8
