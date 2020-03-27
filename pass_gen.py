@@ -1,4 +1,4 @@
-# K.<>.
+# K.<>. 
 from passwordmeter import test # Strength and Feedback of password
 from urllib.request import urlopen # English words library
 from os.path import isfile
